@@ -6,3 +6,4 @@ cloudinary~=1.42.2
 python-dotenv~=1.0.1
 pydantic~=2.10.6
 uvicorn
+psycopg2
